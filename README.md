@@ -33,7 +33,7 @@
 1. Зклонуйте репозиторій на свій комп'ютер:
 ```bash
    git clone [https://github.com/your-username/minesweeper.git](https://github.com/your-username/minesweeper.git)
-
+```
 ## 📸 Скріншоти
 
 <img width="433" height="439" alt="image" src="https://github.com/user-attachments/assets/3d439a7e-3c0b-4c1f-a88f-9272e575911a" />
